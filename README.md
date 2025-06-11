@@ -56,9 +56,9 @@ DSA OOP DBMS OS CI/CD Version Control
 ### 📫 Contact Me:
 
 -  Email: vaishnavinarayankar2@gmail.com  
--  LinkedIn: linkedin.com/in/vaishnavi-narayankar-986830259.com
--  Github: github.com/VaishnaviNarayankar
--  LeetCode: leetcode.com/u/Vaishnavi_250904/
+-  LinkedIn: www.linkedin.com/in/vaishnavi-narayankar-986830259.com
+-  Github: https://github.com/VaishnaviNarayankar
+-  LeetCode: https://leetcode.com/u/Vaishnavi_250904/
 
 ---
 
