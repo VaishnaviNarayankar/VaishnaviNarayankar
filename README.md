@@ -15,19 +15,19 @@
 ### 🛠 Tech Stack:
 
 #### 🔤 Languages:
-Java Python C++ C JavaScript HTML CSS SQL Shell Scripting Bash 
+Java Python, C++, C, JavaScript, HTML, CSS, Shell, Scripting Bash 
 
 #### 🌐 Web & Frameworks:
-React Node.js 
+React, Node.js 
 
 #### 🧰 Tools & Platforms:
-Git GitHub VS Code Eclipse IntelliJ Turbo C Notpad+++ Excel
+Git, GitHub, VS Code, Eclipse, IntelliJ, Turbo C, Notpad+++, Excel
 
 #### 🗄 Databases & Backend:
 MySQL
 
 #### 💡 Concepts:
-DSA OOP DBMS OS CI/CD Version Control
+DSA, OOP, DBMS, OS, CI/CD, Version Control
 
 ---
 
