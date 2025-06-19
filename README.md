@@ -48,7 +48,7 @@ DSA, OOP, DBMS, OS, CI/CD, Version Control
 
 - Participated in SIH 2024 | National-level Smart India Hackathon   
 - Orchathon Participant(Smart Health Monitoring System using IOT)
-- Active Member: ISTE | NSS | IETE – Team leadership & event coordination
+- Active Member: ISTE | NSS | IETE – Documentation Head & event coordination
 
 ---
 
