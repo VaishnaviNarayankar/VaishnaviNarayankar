@@ -33,7 +33,7 @@ DSA, OOP, DBMS, OS, CI/CD, Version Control
 
 ### 🚀 Featured Projects:
 1. <h4>Movie Recommendation System:-</h4>
-   <p>Developed a movie recommendation system that recommends similar movies based on user input. | Achieved 85% accuracy in recommending genre-relevant movies
+   <p>Developed a movie recommendation system using ML techniques that recommends similar movies based on user input. | Achieved 85% accuracy in recommending genre-relevant movies
    reducing manual effort by 70% | Increasing processing efficiency by 60%. 
    🔗 https://github.com/VaishnaviNarayankar/MovieRecommendationSystem.git</p>
 
