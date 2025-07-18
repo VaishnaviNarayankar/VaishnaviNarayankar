@@ -15,7 +15,7 @@
 ### 🛠 Tech Stack:
 
 #### 🔤 Languages:
-Java, Python, C++, C, JavaScript, HTML, CSS, Shell Scripting, Bash 
+Java, Python, JavaScript, Machine Learning, Artificial Intelligence, HTML, CSS,  C++, C, Shell Scripting, Bash 
 
 #### 🌐 Web & Frameworks:
 React, Node.js 
