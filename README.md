@@ -42,7 +42,7 @@ DSA, OOP, DBMS, OS, CI/CD, Version Control
 
 3. <h4>FactShield-AI Powered Fake News Detection WebApp:-</h4>
    <p>Developed an Interactive Streamlit Web App that Detects Fake News using a Machine-Learning pipeline (TF-IDF Vectorizer + Logistic Regression) | Improved usability by providing a clean UI, real-time predictions.
-   🔗 https://github.com/VaishnaviNarayankar/FakeNewsDetection</p>
+   🔗<a href="https://github.com/VaishnaviNarayankar/FakeNewsDetection" target="_blank">Github Link</a></p>
 
 4. <h4>Stationary Invoice Generator:-</h4>
    <p>Developed a Python-Based GUI application using (Tkinter) to automate invoice generation, featuring dynamic form fields for client details, items, quantities, and automatic total calculations, with support for saving in PDF/Excel formats and direct printing.
