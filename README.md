@@ -34,8 +34,7 @@ DSA, OOP, DBMS, OS, CI/CD, Version Control
 ### 🚀 Featured Projects:
 1. <h4>CodeRivix DSA Practicer:-</h4>
    <p>Built a Centralized Platform that provides Topic-Wise DSA Problems categorized into Easy, Medium, and Hard, helping learners practice systematically | Integrated Solution Video Lectures for each topic so students can quickly revisit concepts whenever they face difficulty.
-   🔗Github Link:- https://github.com/VaishnaviNarayankar/CodeRivix-DSA-Practicer
-   🔗Live Demo:- https://vaishnavinarayankar.github.io/CodeRivix-DSA-Practicer/</p>
+   🔗<a href="https://github.com/VaishnaviNarayankar/CodeRivix-DSA-Practicer" target="_blank">Github Link</a> | <a href="https://vaishnavinarayankar.github.io/CodeRivix-DSA-Practicer/" target="_blank">Live Demo</a></p>
 
 2. <h4>Movie Recommendation System:-</h4>
    <p>Developed a movie recommendation system using ML techniques that recommends similar movies based on user input | Achieved 85% accuracy in recommending genre-relevant movies | Reduced manual efforts by 70%.
