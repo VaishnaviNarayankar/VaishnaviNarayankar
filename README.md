@@ -38,7 +38,7 @@ DSA, OOP, DBMS, OS, CI/CD, Version Control
 
 2. <h4>Movie Recommendation System:-</h4>
    <p>Developed a movie recommendation system using ML techniques that recommends similar movies based on user input | Achieved 85% accuracy in recommending genre-relevant movies | Reduced manual efforts by 70%.
-   🔗 https://github.com/VaishnaviNarayankar/MovieRecommendationSystem.git</p>
+   🔗<a href="https://github.com/VaishnaviNarayankar/MovieRecommendationSystem.git" target="_blank">Github Link</a></p>
 
 3. <h4>FactShield-AI Powered Fake News Detection WebApp:-</h4>
    <p>Developed an Interactive Streamlit Web App that Detects Fake News using a Machine-Learning pipeline (TF-IDF Vectorizer + Logistic Regression) | Improved usability by providing a clean UI, real-time predictions.
@@ -46,11 +46,11 @@ DSA, OOP, DBMS, OS, CI/CD, Version Control
 
 4. <h4>Stationary Invoice Generator:-</h4>
    <p>Developed a Python-Based GUI application using (Tkinter) to automate invoice generation, featuring dynamic form fields for client details, items, quantities, and automatic total calculations, with support for saving in PDF/Excel formats and direct printing.
-   🔗 https://github.com/VaishnaviNarayankar/Stationary_Invoice_Generator.git</p>
+   🔗<a href="https://github.com/VaishnaviNarayankar/Stationary_Invoice_Generator.git" target="_blank">Github Link</a></p>
 
 5. <h4>Garbage Classification:-</h4>
    <p>Developed a Supervised Machine Learning model to classify waste into categories such as Cardboard, Glass, Metal, Paper, Plastic, Trash | Achieved accuracy of 80%. | Reduced manual waste sorting efforts by 60%.
-   🔗 https://github.com/VaishnaviNarayankar/GarbageClassification</p>
+   🔗<a href="https://github.com/VaishnaviNarayankar/GarbageClassification" target="_blank">Github Link</a></p>
 
 
 
