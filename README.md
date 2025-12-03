@@ -15,10 +15,10 @@
 ### 🛠 Tech Stack:
 
 #### 🔤 Languages:
-Java, Python, JavaScript, Machine Learning, Artificial Intelligence, HTML, CSS,  C++, C, Shell Scripting, Bash 
+Java,  Python,  JavaScript,  Machine Learning,  Artificial Intelligence,  AWS,  C++,  C
 
 #### 🌐 Web & Frameworks:
-React, Node.js 
+HTML,  CSS,  JavaScript,  React,  Node.js 
 
 #### 🧰 Tools & Platforms:
 Git, GitHub, VS Code, Eclipse, IntelliJ, Turbo C, Notpad+++, Excel
@@ -34,7 +34,7 @@ DSA, OOP, DBMS, OS, CI/CD, Version Control
 ### 🚀 Featured Projects:
 1. <h4>CodeRivix DSA Practicer:-</h4>
    <p>Built a Centralized Platform that provides Topic-Wise DSA Problems categorized into Easy, Medium, and Hard, helping learners practice systematically | Integrated Solution Video Lectures for each topic so students can quickly revisit concepts whenever they face difficulty.
-   🔗<a href="https://github.com/VaishnaviNarayankar/CodeRivix-DSA-Practicer" target="_blank">Github Link</a> | <a href="https://vaishnavinarayankar.github.io/CodeRivix-DSA-Practicer/" target="_blank">Live Demo</a></p>
+   🔗<a href="https://vaishnavinarayankar.github.io/CodeRivix-DSA-Practicer/" target="_blank">Live Demo</a> | <a href="https://github.com/VaishnaviNarayankar/CodeRivix-DSA-Practicer" target="_blank">Github Link</a></p>
 
 2. <h4>Movie Recommendation System:-</h4>
    <p>Developed a movie recommendation system using ML techniques that recommends similar movies based on user input | Achieved 85% accuracy in recommending genre-relevant movies | Reduced manual efforts by 70%.
